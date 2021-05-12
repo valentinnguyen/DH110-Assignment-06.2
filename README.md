@@ -20,14 +20,17 @@ In the wireflow, the screens going through the center horizontally next to the h
 
 <img width="1365" alt="Screen Shot 2021-05-11 at 7 14 40 PM" src="https://user-images.githubusercontent.com/81778205/117908493-57512280-b28d-11eb-86fc-ad4f89a980bb.png">
 
+Below the screens going through the center horizontally are screens with visibility of system status — specifically a blinking cursor when the user hovers over a text field.
+
+<img width="1293" alt="feedback_cursor" src="https://user-images.githubusercontent.com/81778205/117908958-363d0180-b28e-11eb-9a37-e32e4c562e05.png">
+
 Each screen also has a back button (facilitated through the chevron arrows) that allows the user to go back to the previous screen when they click on it.
 
 <img width="1163" alt="Screen Shot 2021-05-11 at 7 15 32 PM" src="https://user-images.githubusercontent.com/81778205/117908532-69cb5c00-b28d-11eb-8a96-5f43a25d876d.png">
 
-## Cognitive Walkthrough
-
-
 ## Reflection
+
+Overall, I think aspects that were successful in making this prototype was keeping an aesthetic and minimalistic design throughout the whole process. It was tedious trying to create the extra screens that navigated the users in order to prevent errors on their end, but I think they were necessary because users will have to input their basic information. The overall purpose of the website is to bring people from different communities together, because that doesn't happen very easily or often. I think it comes with a lack of trust between different communities where people seem afraid or uninterested in cultures that aren't their own. In forcing the user to provide their information in addition to the phone number verification in the end, it will hopefully help users realize that everyone using the website had gone through the same extensive process. This ultimately makes sure that users feel safe when using the app and that they don't come across users that won't use the app for its intended purpose.
 
 ##### Things I would want to add or revise when editing my prototype:
 - Allow the user to go back to the home screen by clicking on the top lefthand logo at any point during the process of creating their profile.
